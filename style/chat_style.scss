@@ -1,0 +1,23 @@
+// discard parameters
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+$maxSize944: 944px; //maximum page width
+
+@import url('http://fonts.cdnfonts.com/css/gilroy-bold');
+
+.content{
+    padding-top: 300px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 34px;
+    height: 60.1%;
+    background-color: rgb(252, 246, 212);
+
+    p{
+        margin: 0 auto;
+        text-align: center;
+    }
+}
